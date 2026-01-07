@@ -1,4 +1,5 @@
 # MeteoStationESP32
+![photo_2025-12-12_20-51-28](https://github.com/user-attachments/assets/dd5741a3-be48-4dce-9e92-74653811a8be)
 
 ## description
 autonomous clock-weather-station based on esp-32-wroom and arduino ide.  
