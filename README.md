@@ -40,6 +40,7 @@ network settings can be reset using a physical button.
 - second pin -> gnd
 
 # WARNING!
+- FOR CORRECT OPERATION, A 5V 2A POWER SUPPLY IS REQUIRED
 
 - THE WEATHER STATION OPERATES IN UTC+3 TIME ZONE
   
